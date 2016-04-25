@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\pre-dexed\debug\classes-9bea950e6130f3a2d3fa72a334b18e74b832d847.jar" />
+    </item>
+    <item
+        jar="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\pre-dexed\debug\classes-d330743fa78ccc5343c85044e205a35dd3aa1f34.jar" />
+    </item>
+    <item
+        jar="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\pre-dexed\debug\classes-0bee486f8cc2e093e07a10ccdc3c8a80bd96abe6.jar" />
+    </item>
+    <item
+        jar="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\pre-dexed\debug\classes-cdec39d5f996a73ebbcb7d747e2c32b3fa1a2da7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Peter\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0-51e41441d63fdf95eb4cb12d4c4b238c9f4f6b0b.jar" />
+    </item>
+    <item
+        jar="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\pre-dexed\debug\classes-61b2803c2f2462dfd0471968e2a919f0c19d04dd.jar" />
+    </item>
+    <item
+        jar="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0-ea9cb7b12d8a03228595c663132a0e8243fbd458.jar" />
+    </item>
+    <item
+        jar="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\pre-dexed\debug\classes-49880e5ea8f0d287c8bf974e2e6e5b8dc00fb6dc.jar" />
+    </item>
+    <item
+        jar="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="G:\School\Spring2016\MobileApps\Lab12\app\build\intermediates\pre-dexed\debug\classes-a4eea58ec9af1cb6bd38cc8e73d6310d7844674b.jar" />
+    </item>
+
+</items>
